@@ -9,7 +9,7 @@ Implement P2P investment experience in code:
 4. User can see his own investment portfolio, and it's total value.
 
 ## Requirements
-1. UI is not mandatory.
+1. UI is not required.
 2. Use PHP 7.2 or higher.
 3. Use given interfaces, you are free to modify them as you need.
 4. Use MySQL or PostgreSQL as database service.
